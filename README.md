@@ -24,8 +24,4 @@ yantq0927@gmail.com | henry0927@outlook.com
 
 Find me on https://forums.ubports.com/ (UBports Forum): @Evergardener
 
-通常，中文版更新进度较超前。请华人 UT 机友们尽量复制中文版的源码！
-Sometimes, the update progress of Chinese version is more ahead of schedule. Sorry for the inconvenience!
-
-感谢 Frank Pan，Ubuntu Touch 管理终端即将支持德语！
 Dank Frank Pan wird das Ubuntu Touch Management Console bald Deutsch unterstützen!
